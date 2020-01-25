@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttp;
+namespace GuzzleHttpMeredian;
 
 /**
  * Debug function used to describe the provided value type and class.
